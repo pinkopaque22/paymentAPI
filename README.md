@@ -1,4 +1,4 @@
-* Test commands with curl and test urls with Postman
+* Test API GET/POST with curl and Postman
 
 - start rails server
 # Curl Commands
